@@ -1,4 +1,4 @@
-For now no license so NOT free to use! 
+
 
 Notebooks use DeepLabCut body pose estimation data.
 I used the labels nose, ear right and left, shoulder right and left and tailbase.
